@@ -1,0 +1,43 @@
+PRINT HEAD
+----------
+Extruder: Tevo brand (modified E3D)
+Hotend Heatsink: Modified E3D-V6 (The J-Head and the fins are the same as E3D-V6, however the thread for the heat-break is M6, not M7.)
+Hotend Heat-block: Modified E3D-V5 ( Different dimensions. An E3D-V5 heat-block may not function properly, thermal-wise.)
+Hotend Heat-break: Modified E3D-V5 ( Longer by 1mm. Actually for 3mm filament, fited with 3mm OD, 2mm ID PTFE liner (PTFE: Poly-TetraFluoro-Ethylene, known as Teflon)).
+Nozzle: Modified MK7 (The nozzle is not from the E3D family.)
+Hotend Thermistor: NTC-3950 100K beta
+
+BED HEATER
+----------
+Bed Heater:  24V 14A (336W)
+Bed Thermistor: NTC-3950 100K beta
+Bed connector: 6pin Molex SPOX (.156) male connector.  Mating connector: Molex 09-50-1061 Mating contacts: Molex 08-70-1031
+Wiring: +24V +24V Thermistor Thermistor GND GND
+
+SERVOS
+------
+Type: NEMA 12 - 4 wire - 2 phase
+Brand: Tevo Titan 17HD4401-C5.18 (mfg'd by Busheng)
+Connector: male 6pin JST XH
+Wiring:
+   pin 1 = A1 (or A+ or A)
+   pin 2 = nc
+   pin 3 = B1 (or B+ or B)
+   pin 4 = A2 (or A- or A')
+   pin 5 = nc
+   pin 6 = B2 (or B- or B')
+Rated Current: 1.5A
+
+Servo wire connector that plugs into the driver board: 4 pin JST SM (m on cable, f on the driver pcb)
+
+LIMIT SWITCHES
+--------------
+Model: SUNX (Panasonic) GL-8H (discontinued)
+Replacement: SUNX GX-H8A
+
+ROLLER WHEELS
+-------------
+Large wheels: Polycarbonate pully 24.1mm x 11mm with 5mm bearing hole
+Small wheels: Polycarbonate pully 15.3mm x 6mm with 5mm bearing hole
+
+
