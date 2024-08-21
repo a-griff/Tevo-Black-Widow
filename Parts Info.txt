@@ -35,6 +35,11 @@ LIMIT SWITCHES
 Model: SUNX (Panasonic) GL-8H (discontinued)
 Replacement: SUNX GX-H8A
 
+===============================================================================
+MECHANICAL
+
+Frame screws and T-nuts: M5-20
+
 ROLLER WHEELS
 -------------
 Large wheels: Polycarbonate pully 24.1mm x 11mm with 5mm bearing hole
