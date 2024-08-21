@@ -16,7 +16,7 @@ Wiring: +24V +24V Thermistor Thermistor GND GND
 
 SERVOS
 ------
-Type: NEMA 12 - 4 wire - 2 phase
+Type: NEMA 17 - 4 wire - 2 phase
 Brand: Tevo Titan 17HD4401-C5.18 (mfg'd by Busheng)
 Connector: male 6pin JST XH
 Wiring:
